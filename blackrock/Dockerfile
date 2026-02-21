@@ -1,5 +1,5 @@
 # Build command: docker build -t blk-hacking-ind-sushant-nikam .
-FROM eclipse-temurin:17-jdk-focal
+FROM eclipse-temurin:21-jdk-focal
 
 
 WORKDIR /app
